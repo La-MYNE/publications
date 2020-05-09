@@ -4,7 +4,3 @@
 
 ## La MYNE
 
-## Oxamyne
-
-* [OxaMYNE ou “l’entrepreneuriat coopératif”](oxamyne/oxamyne-ou-lentrepreneuriat-cooperatif.md)
-
